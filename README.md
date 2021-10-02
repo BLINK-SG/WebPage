@@ -1,7 +1,7 @@
 
 # WebPage
-LIVE PAGE :- https://blink-sg.netlify.app/#
 
+<a href="https://blink-sg.netlify.app/#" target="_blank"><span>LivePage</span></a>
 
 ## Screenshots
 

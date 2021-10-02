@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://media.discordapp.net/attachments/802444881628495872/893770435051794442/unknown.png?width=1366&height=670)
+![App Screenshot](https://media.discordapp.net/attachments/802444881628495872/893854336059314267/unknown.png)
   
 ## License
 
